@@ -10,7 +10,7 @@ export default function Dogecoin() {
             </Head>
 
             <div className="w3-display-middle">
-                <h1>go away</h1>
+                <h1>Soon&trade;</h1>
             </div>
         </div>
     )
