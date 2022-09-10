@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>whale</title>
         <meta name="description" content="not whales ;)" />
-        <meta property="og:image" content="../public/whale1.jpg" />
+        <meta property="og:image" content="https://i.ibb.co/4jjgPyP/whale1.jpg" />
       </Head>
       <div className="whalelmao">
         <header>
