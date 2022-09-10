@@ -15,7 +15,7 @@ export default function Home() {
           <div className="w3-display-middle">
             <h1>WELCOME TO <a href="https://chuckle.city">CHUCKLE.CITY</a></h1>
             <h2>BEGIN LEARNING ABOUT WHALES</h2>
-            <h4 className="w3-red"> (disclaimer: you probably won't learn much about whales)</h4>
+            <h4 className="w3-red">disclaimer: you probably wont learn much about whales</h4>
           </div>
         </header>
       </main>
