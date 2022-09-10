@@ -4,7 +4,7 @@ import Head from 'next/head'
 
 export default function Home() {
   return (
-    <div className="">
+    <div>
       <Head>
         <title>whale</title>
         <meta name="description" content="not whales ;)" />
