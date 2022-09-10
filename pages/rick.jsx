@@ -10,7 +10,7 @@ export default function rick() {
                 <meta name="description" content="not a rickroll, i swear" />
                 <meta httpEquiv="Refresh" content="0; url='https://www.youtube.com/watch?v=dQw4w9WgXcQ'" />
             </Head>
-
+        
         <main>
             <p>never gonna give you up</p>
         </main>
