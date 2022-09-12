@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
       <div className="whalelmao">
         <header>
-          <nav className="w3-display-topmiddle">
+          <nav className="">
               <a href="#" className="nav-a">Facts</a>
               <a href="#" className="nav-a">Images</a>
               <a href="#" className="nav-a">Movies</a>
