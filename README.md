@@ -2,8 +2,9 @@
 ## Tasks
 
 
-- Item One
+- **Item** One
+
 
 + Two 
 
-- Three
+* Three
