@@ -14,14 +14,6 @@ footer {
 
 }
 
-#whalelmao {
-    border-image: url('../public/IMG_6013.png');
-}
-
-#kyestupidtest {
-    border: red;
-    border-radius: 1rem;
-}
 
 a {
     text-decoration: none;
@@ -32,6 +24,11 @@ footer-index {
 }
 
 nav {
-    padding: 100px;
-    margin: 40px;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Comic Sans MS';
 }
