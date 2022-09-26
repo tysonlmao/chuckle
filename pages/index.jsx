@@ -15,7 +15,7 @@ export default function Home() {
       <Header/>
       <br />
       <Facts/>
-      <div className="whalelmao">
+      <div className="w3-container">
         <main>
           <div className="w3-display-middle w3-center">
             <h1>WELCOME TO <a href="https://chuckle.city">CHUCKLE.CITY</a></h1>
