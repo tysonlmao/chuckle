@@ -1,5 +1,4 @@
-import 'w3-css/w3.css';
-import '../styles/index.css'
+import '../styles/main.css'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />

@@ -7,8 +7,6 @@ export default function About() {
         <Head>
             <title>about us</title>
         </Head>
-
-        <img src="../public/IMG_01.jpg"></img>
         
         </div>
     )
