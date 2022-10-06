@@ -1,4 +1,4 @@
-import '98.css';
+import 'w3-css/w3.css';
 import Head from 'next/head';
 import Footer from '../components/footer';
 import Header from '../components/header';

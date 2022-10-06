@@ -4,6 +4,10 @@
   background: #c3c3c3;
 }
 
+.default {
+  cursor: url("../public/Cursor79.cur"), auto;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
